@@ -1,0 +1,147 @@
+PREFIX: To Sell
+
+TITLE:
+Custom SaaS, Business Systems & AI Automation | Full-Stack Development from MVP to Production
+
+SUGGESTED TAGS:
+saas, custom software, web development, automation, ai, api, crm, marketplace
+
+THREAD BODY (BBCode):
+
+[SIZE=6][B]Custom SaaS, Business Systems & AI Automation[/B][/SIZE]
+[SIZE=4]Full-Stack Development — From Idea to Production[/SIZE]
+
+If you have a business process, product idea or online service that needs to become a real working system, I can help turn it into a clear technical scope and build it.
+
+I focus on [B]complete working products[/B] rather than isolated pages.
+
+You can come with a detailed specification — or simply explain what the business should do. I can structure the solution before development starts.
+
+[HR][/HR]
+[SIZE=5][B]What I build[/B][/SIZE]
+
+• SaaS platforms and subscription products
+• Custom business systems and internal tools
+• CRM and operations dashboards
+• Client / partner / employee portals
+• Marketplaces and multi-vendor platforms
+• E-commerce with custom business logic
+• Booking and reservation systems
+• Telegram bots and Mini Apps
+• AI-powered web applications
+• AI assistants and workflow automation
+• API and webhook integrations
+• Payment integrations
+• Reporting and analytics systems
+• New modules for existing products
+
+[SIZE=5][B]Projects that are a good fit[/B][/SIZE]
+
+[B]Manual workflow → internal system[/B]
+Your team currently works through spreadsheets, messages and repeated manual steps. You need one structured system with users, roles, tasks, statuses and reports.
+
+[B]Idea → SaaS MVP[/B]
+You have a product idea and need accounts, subscriptions, payments, dashboards and an admin panel — not just a landing page.
+
+[B]Disconnected tools → automation[/B]
+Several services need to exchange data automatically through APIs, webhooks or scheduled workflows.
+
+[B]Marketplace → complete platform[/B]
+You need buyers, sellers, listings, commissions, orders, moderation and operations in one product.
+
+[B]Existing product → next version[/B]
+The project already works, but you need new modules, a better admin panel, another provider, AI functionality or a cleaner workflow.
+
+[SIZE=5][B]AI & automation[/B][/SIZE]
+
+I use AI where it can remove repetitive work or improve a real workflow — not simply to add an “AI” label.
+
+Examples:
+• document classification and data extraction
+• internal knowledge assistants
+• customer-support workflows
+• content processing
+• automated reporting
+• structured AI outputs for existing systems
+• routing and decision-support workflows
+• AI features inside existing SaaS products
+
+[SIZE=5][B]API & integrations[/B][/SIZE]
+
+I can connect a product with payment providers, messaging services, Telegram, AI APIs, analytics, authentication providers, CRM/ERP systems, webhooks and other third-party services.
+
+If a service exposes a usable API, it can usually become part of the workflow.
+
+[HR][/HR]
+[SIZE=5][B]How I work[/B][/SIZE]
+
+You do not need a 50-page technical specification.
+
+A useful first message contains:
+1. What you want to build
+2. Who will use it
+3. The most important functions
+4. Required integrations
+5. Your approximate deadline
+
+I break the project into logical modules and propose an implementation approach.
+
+For larger projects, development can be split into milestones so you can review working progress instead of waiting for one final delivery.
+
+[SIZE=5][B]Typical delivery can include[/B][/SIZE]
+
+• frontend
+• backend
+• database
+• authentication and permissions
+• admin panel
+• APIs and integrations
+• deployment and server configuration
+• source code
+• basic technical documentation
+• post-launch bug fixing for the agreed scope
+
+The goal is a [B]working product[/B], not a folder of source files that nobody has deployed.
+
+[SIZE=5][B]Existing products are welcome[/B][/SIZE]
+
+I can also:
+• add new features
+• integrate a new API or payment provider
+• build an admin dashboard
+• automate a manual process
+• finish an unfinished MVP
+• restructure a weak workflow
+• migrate parts of a system
+• add practical AI functionality
+
+[SIZE=5][B]Pricing[/B][/SIZE]
+
+Custom systems vary too much for a fake “starting at $X” price to be useful.
+
+Small integrations and improvements can be quoted separately. Larger products can be divided into agreed milestones with a defined scope and budget before development starts.
+
+No surprise work is added to the invoice without discussion.
+
+[SIZE=5][B]Portfolio / interactive demos[/B][/SIZE]
+
+I maintain a small technical portfolio showing how I approach SaaS, marketplace, CRM and AI automation products.
+
+The concept projects are clearly labeled as demos — I do not present demo work as fake client cases.
+
+[INSERT YOUR PORTFOLIO LINK AFTER DEPLOYMENT]
+
+[HR][/HR]
+[SIZE=5][B]Have an idea but not sure how to describe it?[/B][/SIZE]
+
+That is completely fine.
+
+A message as simple as this is enough to begin:
+
+[QUOTE]We currently do X manually. I want customers to do Y online, pay, and then our staff manage everything from an admin panel.[/QUOTE]
+
+From there, I can identify the main modules, missing information and likely development stages before giving you a quote.
+
+[B]Contact:[/B] CariGold PM — lenarshakira
+
+I am open to discussing serious custom-development projects and long-term technical cooperation.
